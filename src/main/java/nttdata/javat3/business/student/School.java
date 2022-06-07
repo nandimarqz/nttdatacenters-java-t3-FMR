@@ -62,7 +62,7 @@ public class School implements Comparable<School> {
 	/**
 	 * Método que devuelve el mapa que contiene los estudiantes en su modalidad
 	 * 
-	 * @return Map<Modality, Set<Student>>
+	 * @return Map
 	 */
 	public Map<Modality, Set<Student>> getStudents() {
 		return modalityStudents;

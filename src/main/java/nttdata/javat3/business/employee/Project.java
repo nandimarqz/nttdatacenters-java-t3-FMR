@@ -61,7 +61,7 @@ public class Project implements Comparable<Project> {
 	/**
 	 * Método que devuelve el conjunto de los empleados del proyecto
 	 * 
-	 * @return Set<Employee>
+	 * @return Set
 	 */
 	public Set<Employee> getEmployee() {
 		return employees;
