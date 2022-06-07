@@ -1,0 +1,287 @@
+14:59:22.551 [main] INFO  n.javat3.business.employee.Project - [<init>] - Creando el proyecto: Naturgy
+14:59:22.553 [main] INFO  n.javat3.business.employee.Project - [<init>] - Creando el proyecto: Banco Popular
+14:59:22.554 [main] INFO  n.javat3.business.employee.Project - [<init>] - Creando el proyecto: DUAL
+14:59:22.554 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Generando proyectos
+14:59:22.554 [main] INFO  n.javat3.business.student.School - [<init>] - Generando el centro educativo: IES Hermanos Machado
+14:59:22.554 [main] INFO  n.javat3.business.student.School - [<init>] - Generando el centro educativo: CESUR Sevilla
+14:59:22.554 [main] INFO  n.javat3.business.student.School - [<init>] - Generando el centro educativo: CESUS Málaga
+14:59:22.554 [main] INFO  n.javat3.business.student.School - [<init>] - Generando el centro educativo: Pablo Picasso Málaga
+14:59:22.554 [main] INFO  n.javat3.business.student.School - [<init>] - Generando el centro educativo: IES Alixar
+14:59:22.554 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Generando centros educativos
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [<init>] - Generando Servicio
+14:59:22.555 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Inyectando servicio de gestión
+14:59:22.555 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Añadiendo proyectos
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - ENTRADA MÉTODO
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - Proyecto añadido
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - FIN MÉTODO
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - ENTRADA MÉTODO
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - Proyecto añadido
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - FIN MÉTODO
+14:59:22.555 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - Proyecto añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addProject] - FIN MÉTODO
+14:59:22.556 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Añadiendo centros educativos
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - Centro educativo añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - FIN MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - Centro educativo añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - FIN MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - Centro educativo añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - FIN MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - Centro educativo añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - FIN MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - ENTRADA MÉTODO
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - Centro educativo añadido
+14:59:22.556 [main] INFO  n.j.business.ManagmentServiceImpl - [addSchool] - FIN MÉTODO
+14:59:22.559 [main] INFO  nttdata.javat3.T3MainFMR - [main] - Generando menú
+14:59:49.054 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 1
+14:59:50.689 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - ENTRADA MÉTODO
+14:59:51.128 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - Centro educativo seleccionado: IES Hermanos Machado
+14:59:51.128 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - FIN MÉTODO
+14:59:51.128 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - ENTRADA MÉTODO
+14:59:51.566 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - Modalidad seleccionada: DAM
+14:59:51.566 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - FIN MÉTODO
+14:59:51.567 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - ENTRADA MÉTODO
+14:59:51.567 [main] INFO  n.j.business.ManagmentServiceImpl - [checkPerson] - Comprobando si la persona existe
+14:59:51.567 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+14:59:51.567 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:51.568 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+14:59:51.568 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+14:59:51.568 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Creando alumno
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - ENTRADA MÉTODO
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - Alumno añadido
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - FIN MÉTODO
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Alumno creado
+14:59:51.569 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - FIN MÉTODO
+14:59:51.570 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 1
+14:59:52.005 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 1
+14:59:53.598 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - ENTRADA MÉTODO
+14:59:54.039 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - Centro educativo seleccionado: CESUR Sevilla
+14:59:54.039 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - FIN MÉTODO
+14:59:54.039 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - ENTRADA MÉTODO
+14:59:54.476 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - Modalidad seleccionada: DAW
+14:59:54.477 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - FIN MÉTODO
+14:59:54.477 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.j.business.ManagmentServiceImpl - [checkPerson] - Comprobando si la persona existe
+14:59:54.477 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:54.477 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+14:59:54.477 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:54.477 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:54.478 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Creando alumno
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - ENTRADA MÉTODO
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - Alumno añadido
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addStudent] - FIN MÉTODO
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Alumno creado
+14:59:54.478 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - FIN MÉTODO
+14:59:54.478 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 1
+14:59:54.910 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 2
+14:59:56.504 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - ENTRADA MÉTODO
+14:59:56.941 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - Projecto seleccionado: Banco Popular
+14:59:56.942 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - FIN MÉTODO
+14:59:56.942 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - Categoria seleccionada: JUNIOR
+14:59:57.379 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.j.business.ManagmentServiceImpl - [checkPerson] - Comprobando si la persona existe
+14:59:57.379 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:57.379 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:57.380 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:57.380 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:57.380 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:57.380 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+14:59:57.380 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Creando empleado
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - ENTRADA MÉTODO
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - Empleado añadido
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - FIN MÉTODO
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Empleado creado
+14:59:57.380 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - FIN MÉTODO
+14:59:57.380 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 2
+14:59:57.817 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 2
+14:59:59.346 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - ENTRADA MÉTODO
+14:59:59.787 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - Projecto seleccionado: Naturgy
+14:59:59.787 [main] INFO  nttdata.javat3.T3MainFMR - [showProjects] - FIN MÉTODO
+14:59:59.787 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - Categoria seleccionada: PROJECT_MANAGER
+15:00:00.226 [main] INFO  nttdata.javat3.T3MainFMR - [showCategories] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.j.business.ManagmentServiceImpl - [checkPerson] - Comprobando si la persona existe
+15:00:00.226 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:00.226 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:00.227 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:00.227 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:00.227 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:00.227 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:00.227 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Creando empleado
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - ENTRADA MÉTODO
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - Empleado añadido
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addEmployee] - FIN MÉTODO
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - Empleado creado
+15:00:00.227 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - FIN MÉTODO
+15:00:00.227 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 2
+15:00:00.663 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 1
+15:00:02.235 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - ENTRADA MÉTODO
+15:00:02.674 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - Centro educativo seleccionado: CESUS Málaga
+15:00:02.674 [main] INFO  nttdata.javat3.T3MainFMR - [showSchools] - FIN MÉTODO
+15:00:02.674 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - ENTRADA MÉTODO
+15:00:03.112 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - Modalidad seleccionada: DAW
+15:00:03.112 [main] INFO  nttdata.javat3.T3MainFMR - [showModalities] - FIN MÉTODO
+15:00:03.112 [main] INFO  n.j.business.ManagmentServiceImpl - [addPerson] - ENTRADA MÉTODO
+15:00:03.112 [main] INFO  n.j.business.ManagmentServiceImpl - [checkPerson] - Comprobando si la persona existe
+15:00:03.112 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+15:00:03.112 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:03.113 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:03.113 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - Existe la persona
+15:00:03.113 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+15:00:03.113 [main] WARN  nttdata.javat3.T3MainFMR - [main] - La persona que se quiere crear ya existe
+15:00:03.550 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 3
+15:00:03.550 [main] INFO  n.j.business.ManagmentServiceImpl - [showPeople] - ENTRADA MÉTODO
+15:00:03.550 [main] INFO  n.j.business.ManagmentServiceImpl - [showPeople] - Mostrando los centros educativos y sus alumnos
+15:00:03.550 [main] INFO  n.javat3.business.student.School - [showStudents] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - Mostrando los alumnos del centro educativo: CESUR Sevilla
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - Mostrando los alumnos del centro educativo: CESUS Málaga
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - Mostrando los alumnos del centro educativo: IES Alixar
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - Mostrando los alumnos del centro educativo: IES Hermanos Machado
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - Mostrando los alumnos del centro educativo: Pablo Picasso Málaga
+15:00:03.551 [main] INFO  n.javat3.business.student.School - [showStudents] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.j.business.ManagmentServiceImpl - [showPeople] - Mostrando los proyectos y sus empleados
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - Mostrando los empleados del proyecto: Banco Popular
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - Mostrando los empleados del proyecto: DUAL
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - ENTRADA MÉTODO
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - Mostrando los empleados del proyecto: Naturgy
+15:00:03.551 [main] INFO  n.javat3.business.employee.Project - [showEmployees] - FIN MÉTODO
+15:00:03.551 [main] INFO  n.j.business.ManagmentServiceImpl - [showPeople] - FIN MÉTODO
+15:00:03.551 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 3
+15:00:03.992 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 4
+15:00:05.625 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - El dni del estudiante esta registrado
+15:00:05.626 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:05.626 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - Existe la persona
+15:00:05.626 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+15:00:05.626 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 4
+15:00:06.064 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 4
+15:00:07.658 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - ENTRADA MÉTODO
+15:00:07.658 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:07.658 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:07.658 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - ENTRADA MÉTODO
+15:00:07.659 [main] INFO  n.javat3.business.student.School - [containStudent] - FIN MÉTODO
+15:00:07.659 [main] INFO  n.j.business.ManagmentServiceImpl - [checkStudent] - FIN MÉTODO
+15:00:07.659 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 4
+15:00:08.097 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 5
+15:00:09.627 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:09.627 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:09.627 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - Existe la persona
+15:00:09.627 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+15:00:09.627 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 5
+15:00:10.069 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 5
+15:00:11.629 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+15:00:11.629 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:11.629 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:11.629 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:11.630 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:11.630 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:00:11.630 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:00:11.630 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+15:00:11.630 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 5
+15:00:12.066 [main] INFO  nttdata.javat3.T3MainFMR - [main] - ENTRADA CASO 5
+15:01:32.074 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - ENTRADA MÉTODO
+15:01:32.074 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:01:32.074 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:01:32.074 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:01:32.075 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:01:32.075 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - ENTRADA MÉTODO
+15:01:32.075 [main] INFO  n.javat3.business.employee.Project - [containEmployee] - FIN MÉTODO
+15:01:32.075 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN MÉTODO
+15:01:32.075 [main] INFO  nttdata.javat3.T3MainFMR - [main] - FIN CASO 5
